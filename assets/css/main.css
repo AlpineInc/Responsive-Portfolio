@@ -219,8 +219,9 @@ footer {
 	border-color: darkgrey;
 	border-style: solid;
 	border-top-width: 1px;
-}#section-contactme{
-	width: 300px;
+}
+#section-contactme{
+	width: 90%;
 	float: none;
 	margin: auto;
 	margin-top: 20px;

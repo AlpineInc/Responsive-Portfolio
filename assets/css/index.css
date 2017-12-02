@@ -71,11 +71,20 @@ p {
 @media screen and (max-width: 640px) {
 #section-main{
 	margin-top: 100px;
-	width: 358px;
+	width: 80%;
 }
 #section-aboutme{
-	width: 290px;
+	margin: auto;
+	width: 90%;
 	float: none;
+}
+#img-me{
+	float: none;
+	margin: auto;
+}
+#p-aboutme{
+	float: none;
+	margin-top: 20px;
 }
 }
 
